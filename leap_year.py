@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Joseph Kwon
-# Created on: Oct 12
+# Created on: Oct 21
 # This program checks if a year is a leap year.
 
 
